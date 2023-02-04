@@ -1,4 +1,13 @@
-### Under construction :construction:
+## Hi I'm Damian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+
+I'm Damian Duda a Frontend Developer with more than 10 years of expirence.
+
+- 🔭 I’m currently working at Nexway
+- 🌱 I’m currently learning about accessible websites and optimization for screen readers
+- :e-mail: How to reach me: damian.duda@live.com
+- :link: [My homepage <img src="https://avatars.githubusercontent.com/u/1925080?s=96&v=4" width="18px" height="18px" alt="Link" />](https://balmor.github.io/)
+
+<!-- #### Technologies -->
 
 <!--
 **balmor/balmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
