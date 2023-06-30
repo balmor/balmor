@@ -10,7 +10,7 @@ I'm Damian Duda a Frontend Developer with more than 10 years of experience.
 #### Technologies
  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=darkslategray&logo=javascript&logoColor=F0DB4F)](#) 
  [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=darkslategray&logo=typescript&logoColor=007acc)](#) 
- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=darkslategray&logo=react&logoColor=61DBFB)](#) [![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=darkslategray&logo=redux&logoColor=61DBFB)](#) [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=darkslategray&logo=html5&logoColor=61DBFB)](#) [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=darkslategray&logo=html5&logoColor=61DBFB)](#) 
+ [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=darkslategray&logo=react&logoColor=61DBFB)](#) [![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=darkslategray&logo=redux&logoColor=61DBFB)](#) [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=darkslategray&logo=html5&logoColor=61DBFB)](#) [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=darkslategray&logo=css3&logoColor=61DBFB)](#) 
  
  #### Contact
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?labelColor=white&logo=twitter&logoColor=1DA1F2&link=https://twitter.com/balmor81)](https://twitter.com/balmor81)
