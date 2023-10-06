@@ -4,7 +4,7 @@
 I'm Damian Duda a Frontend Developer with more than 10 years of experience.
 
 - 🔭 I’m currently working at Nexway
-- 🌱 I’m currently learning NextJS, Tailwind and Contentful cms.
+- 🌱 I’m currently learning about accessible websites and optimization for screen readers
 - :e-mail: How to reach me: damian.duda@live.com
 - :link: [My homepage](https://balmor.github.io/)
 
