@@ -1,4 +1,5 @@
-## <img src="https://avatars.githubusercontent.com/u/1925080?s=96&v=4" style="border-radius: 50%;" width="30px" height="30px" alt="Link" /> Hi I'm Damian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+# <img src="https://avatars.githubusercontent.com/u/1925080?s=96&v=4" style="border-radius: 50%;" width="30px" height="30px" alt="Link" /> Hi I'm Damian :raised_hand_with_fingers_splayed:
+
 
 I'm Damian Duda a Frontend Developer with more than 10 years of experience.
 
