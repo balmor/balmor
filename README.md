@@ -1,10 +1,9 @@
 # <img src="https://avatars.githubusercontent.com/u/1925080?s=96&v=4" style="border-radius: 50%;" width="30px" height="30px" alt="Link" /> Hi I'm Damian :raised_hand_with_fingers_splayed:
 
-
-I'm Damian Duda a Frontend Developer with more than 10 years of experience.
+I am Damian Duda, a frontend developer with over 10 years experience.
 
 - 🔭 I’m currently working at Nexway
-- 🌱 I’m currently learning about accessible websites and optimization for screen readers
+- 🌱 I'm currently learning about accessible websites and screen reader optimisation.
 - :e-mail: How to reach me: damian.duda@live.com
 - :link: [My homepage](https://balmor.github.io/)
 
